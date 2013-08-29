@@ -1,0 +1,19 @@
+{
+    "tags": {
+        "allowUnknownTags": true
+    },
+    "source": {
+        "include": ["../CSV-Reader/main.js","../CSV-Reader/csvHtml.js","../CSV-Reader/csvArcGis.js"]
+    },
+    "plugins": [],
+    "templates": {
+        "cleverLinks": false,
+        "monospaceLinks": false,
+        "default": {
+            "outputSourceFiles": true
+        }
+    },
+	"opts": {
+		"destination": "../out"
+	}
+}

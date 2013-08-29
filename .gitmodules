@@ -1,0 +1,6 @@
+[submodule "CSV-Reader"]
+	path = CSV-Reader
+	url = https://github.com/WSDOT-GIS/CSV-Reader.git
+[submodule "jsdoc"]
+	path = jsdoc
+	url = https://github.com/jsdoc3/jsdoc.git
